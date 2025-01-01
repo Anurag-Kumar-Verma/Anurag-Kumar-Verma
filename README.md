@@ -31,7 +31,7 @@ With my extensive experience in frontend technologies, I have developed a strong
   - **Angular Material**: Leveraging Material Design components for clean, modern UIs.
   - **EJS (Embedded JavaScript)**: Experienced in Server-Side Rendering (SSR) with EJS templates.
   
-**Backend Knowledge**:
+- **Backend Knowledge**:
   - **JavaScript, TypeScript**: Well-versed in both languages for building efficient and maintainable applications.
   - **React**: Strong understanding of React concepts and eager to work on React-based projects.
   - **Node.js & Express**: Basic knowledge of building REST APIs and server-side logic with Node.js and Express.
