@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **Anurag-Kumar-Verma/Anurag-Kumar-Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Anurag Kumar Verma's ✨👨🏻‍💻
+# Anurag Kumar Verma's Portfolio 👨🏻‍💻
 
 Welcome to my portfolio! I'm Anurag Kumar Verma, a passionate and skilled Frontend Developer with over 3 years of experience in creating visually stunning and highly functional web applications. With a solid foundation in modern web technologies and a keen eye for detail, I specialize in building responsive and scalable websites and applications that cater to diverse domains such as e-commerce, healthcare, telehealth, and more.
 
