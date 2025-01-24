@@ -1,17 +1,25 @@
-const express = require('express');
-const cors = require('cors');
-const bodyParser = require('body-parser');
-const dotenv = require('dotenv');
-const { default: connectDB } = require('./config/db.config');
+import express from 'express';
+import cors from 'cors';
+import bodyParser from 'body-parser';
+import { config } from 'dotenv';
+import connectDB from './config/db.config.js';
+import employeeRoute from './routes/emplyee.route.js';
+import authRoute from './routes/auth.route.js';
 const app = express();
 
-dotenv.config(); // configure dotenv
+config(); // configure dotenv
 connectDB(); // Connect to MongoDB
 const port = process.env.PORT || 2110;
 // Middleware
 app.use(bodyParser.json());
 app.use(cors());
-
+app.use('/api/auth', authRoute);
+app.use('/api/user', employeeRoute);
+app.post('/test', (req, res) => {
+    // console.log('Test Body:', req.body);
+    res.send('Test route');
+});
+  
 app.get('/', (req, res) => {
     res.send("Hello world!");
 });
