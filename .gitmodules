@@ -1,0 +1,6 @@
+[submodule "hr-management/backend"]
+	path = hr-management/backend
+	url = https://github.com/Anurag-Kumar-Verma/hr-management-api.git
+[submodule "hr-management/frontend"]
+	path = hr-management/frontend
+	url = https://github.com/Anurag-Kumar-Verma/hr-management-ui.git
