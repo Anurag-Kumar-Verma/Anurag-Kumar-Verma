@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,next,nodejs,flutter,express,mongodb,nestjs,vercel,bootstrap,tailwind,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,angular,react,vite,next,nodejs,flutter,express,mongodb,nestjs,vercel,bootstrap,tailwind,git,github,figma,postman,jwt,trello," />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🔥 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAnurag&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Kumar-Verma&theme=react-dark&hide_border=true" />
 </p>
 
 ---
