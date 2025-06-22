@@ -39,7 +39,7 @@
 ---
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnuragVermaDev&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Anurag-Kumar-Verma&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Stats -->
@@ -50,13 +50,13 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devAnurag&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devAnurag&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anurag-Kumar-Verma&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anurag-Kumar-Verma&theme=radical" />
 </p>
 
 <!-- Extra Score Card (Like the B- Grade Card) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devAnurag&theme=radical&utcOffset=+5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anurag-Kumar-Verma&theme=radical&utcOffset=+5.5" />
 </p>
 
 ---
