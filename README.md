@@ -44,18 +44,18 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragVermaDev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAnurag&theme=radical" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnuragVermaDev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnuragVermaDev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devAnurag&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devAnurag&theme=radical" />
 </p>
 
 <!-- Extra Score Card (Like the B- Grade Card) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnuragVermaDev&theme=radical&utcOffset=+5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devAnurag&theme=radical&utcOffset=+5.5" />
 </p>
 
 ---
