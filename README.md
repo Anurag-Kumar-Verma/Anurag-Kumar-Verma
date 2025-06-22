@@ -28,13 +28,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 | Stats | Languages |
 |-------|-----------|
 | <img src="https://github-readme-stats.vercel.app/api?username=devAnurag&show_icons=true&theme=radical" width="47%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAnurag&layout=compact&theme=radical" width="47%"> |
 
-</div>
+</div> -->
 
 ---
 <!-- GitHub Streak -->
@@ -44,7 +44,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAnurag&theme=radical" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAnurag&theme=radical" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devAnurag&show_icons=true&theme=radical">
 </p>
 
 <!-- Top Languages -->
