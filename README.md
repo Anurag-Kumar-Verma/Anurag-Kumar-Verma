@@ -49,9 +49,9 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AnuragVermaDev"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/anurag-kumar-verma"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:anuragverma.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/Anurag-Kumar-Verma"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/anurag-kumar-verma-39a704189"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:anuragkumar26696@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
