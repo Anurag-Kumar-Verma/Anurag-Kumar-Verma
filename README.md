@@ -40,9 +40,13 @@
 
 ## 🧠 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAnurag&theme=radical&border_radius=10" />
+</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=devAnurag&theme=radical&border_radius=10" />
 </p>
+
 
 ---
 
