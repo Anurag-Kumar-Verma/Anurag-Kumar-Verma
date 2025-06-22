@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,next,nodejs,flutter,express,mongodb,nestjs,vercel,bootstrap,tailwind,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,angular,react,vite,next,nodejs,flutter,express,mongodb,nestjs,vercel,bootstrap,tailwind,git,github,figma,postman,jwt,trello," />
 </p>
 
 ---
