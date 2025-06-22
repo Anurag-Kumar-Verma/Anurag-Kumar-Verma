@@ -32,7 +32,7 @@
 
 | Stats | Languages |
 |-------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=AnuragVermaDev&show_icons=true&theme=radical" width="47%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragVermaDev&layout=compact&theme=radical" width="47%"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=devAnurag&show_icons=true&theme=radical" width="47%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAnurag&layout=compact&theme=radical" width="47%"> |
 
 </div>
 
@@ -41,7 +41,7 @@
 ## 🧠 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragVermaDev&theme=radical&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAnurag&theme=radical&border_radius=10" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🔥 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-anurag&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAnurag&theme=react-dark&hide_border=true" />
 </p>
 
 ---
