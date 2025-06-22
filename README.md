@@ -37,16 +37,26 @@
 </div>
 
 ---
-
-## 🧠 GitHub Streak
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAnurag&theme=radical&border_radius=10" />
-</p> -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=devAnurag&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=AnuragVermaDev&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragVermaDev&theme=radical" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnuragVermaDev&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnuragVermaDev&theme=radical" />
+</p>
+
+<!-- Extra Score Card (Like the B- Grade Card) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnuragVermaDev&theme=radical&utcOffset=+5.5" />
+</p>
 
 ---
 
